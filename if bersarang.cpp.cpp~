@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+	int ph;
+	cout<<"5 ph"
+	cin>>ph
+	if (ph <7)
+	{
+		cout<<"ph <7 adalah asam"<<endl;
+	}
+	else
+		if(ph ==7)
+		{
+			cout<<"ph =7 adalah netral"<<endl;
+		}
+	else
+	{
+		cout<<"ph >7 adalah basa"<<endl;
+return 0;
+}
